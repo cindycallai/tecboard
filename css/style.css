@@ -23,7 +23,7 @@
 }
 /* Estilo desktop */
 body{
-    background-color: white;
+    background-color: #000000;
 }
 header img{
     display: block;
@@ -31,7 +31,7 @@ header img{
     margin: 75px 0 0 360px;
 }
 h1, p{
-    color: #070707;
+    color: #ffffff;
     text-align: center;
 }
 h1{
